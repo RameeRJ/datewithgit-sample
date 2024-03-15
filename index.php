@@ -60,5 +60,6 @@ input[type="submit"]:hover {
     <form method="post">
         <input type="submit" name="submit" value="Press Me">
     </form>
+    <p> this a simple php project for a testing </p>
 </body>
 </html>
